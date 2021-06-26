@@ -11,5 +11,6 @@ public class GitTest {
         //System.out.println("I am version1!!!");
         System.out.println("I am version2!!!");
         System.out.println("I am version3!!!");
+        System.out.println("I am local version!!!");
     }
 }
