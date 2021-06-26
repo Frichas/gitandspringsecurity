@@ -8,6 +8,7 @@ package com.zzy.springsecurity.gittest;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("I am version1!!!");
+        //System.out.println("I am version1!!!");
+        System.out.println("I am version2!!!");
     }
 }
